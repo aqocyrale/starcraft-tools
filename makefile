@@ -1,0 +1,2 @@
+test:
+	node src/test
